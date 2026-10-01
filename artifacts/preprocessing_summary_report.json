@@ -1,0 +1,8 @@
+{
+    "dataset": "Admission Dataset",
+    "shape": [
+        400,
+        9
+    ],
+    "target": "Chance of Admit"
+}

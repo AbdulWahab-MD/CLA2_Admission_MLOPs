@@ -1,0 +1,5 @@
+{
+    "model": "Wine_Quality_Production_Model",
+    "stage": "Production",
+    "status": "READY"
+}

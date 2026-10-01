@@ -1,0 +1,11 @@
+{
+    "dataset": "winequality-red",
+    "train_shape": [
+        1087,
+        12
+    ],
+    "test_shape": [
+        272,
+        12
+    ]
+}
